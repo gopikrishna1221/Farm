@@ -1,1 +1,7 @@
 Info about Farm
+
+Animals:
+	Dog 
+	Cat
+	Donkey
+	Cow
