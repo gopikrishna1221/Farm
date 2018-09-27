@@ -5,3 +5,7 @@ Animals:
 	Cat
 	Donkey
 	Cow
+
+Objects:
+	Car
+	Pen
